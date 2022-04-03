@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nesb", "nesb\nesb.csproj", "{8F7FECF8-9399-4526-96FD-899509AB03D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F7FECF8-9399-4526-96FD-899509AB03D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F7FECF8-9399-4526-96FD-899509AB03D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F7FECF8-9399-4526-96FD-899509AB03D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F7FECF8-9399-4526-96FD-899509AB03D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FD22A00-A9CE-4CB0-B282-89E47F938111}
+	EndGlobalSection
+EndGlobal
